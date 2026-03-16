@@ -1,0 +1,6 @@
+tqdm
+scikit-learn
+numpy 
+pandas
+tensorboard
+prefetch_generator
